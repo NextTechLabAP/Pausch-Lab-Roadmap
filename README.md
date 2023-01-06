@@ -56,7 +56,8 @@ The following are referral links to go through if needed.
 - [Level Design]
   - (https://www.youtube.com/watch?v=G8AT01tuyrk)
   - (https://www.youtube.com/watch?v=pNvUWHquSHc)
-  - [Pro Builder Component] (https://www.youtube.com/watch?v=YtzIXCKr8Wo)
+  - [Pro Builder Component] 
+    > (https://www.youtube.com/watch?v=YtzIXCKr8Wo)
   - [Terrain Design] 
     > (https://www.youtube.com/watch?v=MWQv2Bagwgk)
     > (https://www.youtube.com/watch?v=ddy12WHqt-M)
@@ -70,17 +71,17 @@ The following are referral links to go through if needed.
     > (https://www.youtube.com/watch?v=HVChO6VIw_Q)
 
 - [Mixed Reality]
-  > ARCore
-  > Vuforia
-  > ARFoundation
-  > Microsoft Mixed Reality ToolKit (For HTCVive, Quest Devices)
-  > HoloMaps for AR
-  > Wayfair AR
+  - ARCore
+  - Vuforia
+  - ARFoundation
+  - Microsoft Mixed Reality ToolKit (For HTCVive, Quest Devices)
+  - HoloMaps for AR
+  - Wayfair AR
 
 - [Multiplayer Networking Services]
-  > Photon Multiplayer (Photon PUN2, Bolt and Fusion)
-  > Mirror Networking
-  > Unity Netcode for Game Objects (Networking made by unity)
+  - Photon Multiplayer (Photon PUN2, Bolt and Fusion)
+  - Mirror Networking
+  - Unity Netcode for Game Objects (Networking made by unity)
 
 ## Unreal
 > Game Engine written in C++
