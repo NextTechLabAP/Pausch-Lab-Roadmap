@@ -16,11 +16,11 @@ If you are aware of any programming language, then learning C# for unity is not 
  
  Below are the basic unity concepts that you'll use in coding any sort of game/application.
 - [Unity Concepts]
- - (https://bit.ly/EnablingAndDisabling)
- - (https://bit.ly/TranslateAndRotate)
- - (https://bit.ly/GetComponent)
- - (https://bit.ly/Instantiate)
- - (https://bit.ly/ArraysInUnity)
+  - (https://bit.ly/EnablingAndDisabling)
+  - (https://bit.ly/TranslateAndRotate)
+  - (https://bit.ly/GetComponent)
+  - (https://bit.ly/Instantiate)
+  - (https://bit.ly/ArraysInUnity)
  
 - [Get started with Unity]
   - (https://bit.ly/RollABall3D))
